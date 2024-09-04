@@ -4,10 +4,10 @@
 ##  
 `Current State:` `In Progress`  
 
-`Completion Status:` ❌  
+`Completion Status:` ✅  
 
 ## Table of Contents  
-- [TBD](#tbd)
+- [FREE MY KAT](#free-my-kat)
 - [Features](#features)
 - [Requirements](#requirements)
   - [Source Requirements](#source-requirements)
@@ -18,8 +18,8 @@
 - [Credits](#credits)
     - [(Am I) Good Enough (2024)](#am-i-good-enough-2024)
  
-## TBD 
-TBD is a game prototype created in response to the prompt "Creative Destruction (Level Based)".  
+## FREE MY KAT 
+FREE MY KAT is a game prototype created in response to the prompt "Creative Destruction (Level Based)".  
 
 ## Features  
 Destruction.  
@@ -34,24 +34,28 @@ Destruction.
   
 ## Installation  
 Download and extract from the .zip file.  
-Open "TBD.exe".  
+Open "FREE MY KAT.exe".  
   
-*This program can also be run by opening the "TBD.uproject" file in the source folder with Unreal Engine 5.2.1.*  
+*This program can also be run by opening the "Rapid4.uproject" file in the source folder with Unreal Engine 5.2.1.*  
   
   
 ## Controls  
-TBD uses simple mouse and keyboard controls.  
+FREE MY KAT uses simple mouse and keyboard controls.  
   
 ### Keyboard  
-- W: Forward movement
+- W: Forward movement/Up ladder
 - A: Left movement
 - S: Backward movement
 - D: Right movement
-- Spacebar: Jump
+- E: Interact with Kat
+- Spacebar: Jump/Onto ladder
 - ESC: Pause
   
 ### Mouse  
 - Movement: Look around
+- Left Mouse Button: Use weapon
+- Right Mouse Button: Place C4
+- Mouse Scroll Wheel: Change weapon
   
   
 ## Issues  
